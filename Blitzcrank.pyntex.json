@@ -1,0 +1,703 @@
+{
+    "data/characters/blitzcrank/skins/skin0.bin": [
+        {
+            "hash": "Characters/Blitzcrank/Animations/Skin0",
+            "types": "animationGraphData",
+            "mentioned_files": [
+                "assets/rep/anm/blitzcrank_attack1.anm",
+                "assets/rep/anm/blitzcrank_attack2.anm",
+                "assets/rep/anm/blitzcrank_channel.anm",
+                "assets/rep/anm/blitzcrank_channel_windup.anm",
+                "assets/rep/anm/blitzcrank_attack3.anm",
+                "assets/rep/anm/blitzcrank_dance.anm",
+                "assets/rep/anm/blitzcrank_death.anm",
+                "assets/rep/anm/blitzcrank_idle1.anm",
+                "assets/rep/anm/blitzcrank_idle2.anm",
+                "assets/rep/anm/blitzcrank_idle3.anm",
+                "assets/rep/anm/blitzcrank_laugh.anm",
+                "assets/rep/anm/blitzcrank_run.anm",
+                "assets/rep/anm/blitzcrank_spell1.anm",
+                "assets/rep/anm/blitzcrank_spell2.anm",
+                "assets/rep/anm/blitzcrank_taunt.anm"
+            ]
+        },
+        {
+            "hash": "Characters/Blitzcrank/Skins/Skin0",
+            "types": "SkinCharacterDataProperties",
+            "mentioned_files": [
+                "assets/rep/hud/blitzcrankloadscreen.dds",
+                "assets/sounds/wwise2016/sfx/characters/blitzcrank/skins/base/blitzcrank_base_sfx_audio.bnk",
+                "assets/sounds/wwise2016/sfx/characters/blitzcrank/skins/base/blitzcrank_base_sfx_events.bnk",
+                "assets/sounds/wwise2016/vo/en_us/characters/blitzcrank/skins/base/blitzcrank_base_vo_audio.bnk",
+                "assets/sounds/wwise2016/vo/en_us/characters/blitzcrank/skins/base/blitzcrank_base_vo_events.bnk",
+                "assets/sounds/wwise2016/vo/en_us/characters/blitzcrank/skins/base/blitzcrank_base_vo_audio.wpk",
+                "assets/rep/skx/blitzcrank.skl",
+                "assets/rep/skx/blitzcrank.skn",
+                "assets/rep/main/blitzcrank_base_cubemap.dds",
+                "assets/rep/main/mat_body.dds",
+                "assets/rep/main/mat_coat.dds",
+                "assets/rep/main/mat_eye.dds",
+                "assets/rep/main/mat_eyebrow.dds",
+                "assets/rep/main/mat_eyelash.dds",
+                "assets/rep/main/mat_hair.dds",
+                "assets/rep/main/mat_head.dds",
+                "assets/rep/main/mat_hood.dds",
+                "assets/rep/main/mat_lefthand.dds",
+                "assets/rep/main/mat_leg.dds",
+                "assets/rep/main/mat_mechnub.dds",
+                "assets/rep/main/mat_overture.dds",
+                "assets/rep/main/mat_redqueen.dds",
+                "assets/rep/hud/steamgolem_circle.dds",
+                "assets/rep/hud/steamgolem_square.dds"
+            ],
+            "missing_files": [
+                "assets/sounds/wwise2016/vo/en_us/characters/blitzcrank/skins/base/blitzcrank_base_vo_audio.bnk"
+            ]
+        },
+        {
+            "hash": "Characters/Blitzcrank/Skins/Skin0/Particles/Blitzcrank_Base_R_Tether",
+            "types": "VfxSystemDefinitionData",
+            "mentioned_files": [
+                "assets/rep/particlest/common_color-hold.dds",
+                "assets/rep/particlest/common_darksov_justicar_forcetrail2.dds",
+                "assets/rep/particlest/common_darksov_force2.dds"
+            ]
+        },
+        {
+            "hash": "Characters/Blitzcrank/Skins/Skin0/Particles/Blitzcrank_Base_P_Shield_hit_01",
+            "types": "VfxSystemDefinitionData",
+            "mentioned_files": [
+                "assets/rep/scx/common_steamgolemshield.sco",
+                "assets/rep/particlest/common_color-hold.dds",
+                "assets/rep/particlest/common_steamgolemshield.dds"
+            ]
+        },
+        {
+            "hash": "Characters/Blitzcrank/Skins/Skin0/Particles/Blitzcrank_Base_R_Indicator_Ring",
+            "types": "VfxSystemDefinitionData",
+            "mentioned_files": [
+                "assets/rep/particlest/global_indicator_ring.dds",
+                "assets/rep/particlest/ring_highres.dds",
+                "assets/rep/particlest/color-bellcurve.dds",
+                "assets/rep/particlest/global_indicator_shafts.dds"
+            ]
+        },
+        {
+            "hash": "Characters/Blitzcrank/Skins/Skin0/Particles/Blitzcrank_Base_Emote_taunt_sfx_01",
+            "types": "VfxSystemDefinitionData",
+            "mentioned_files": [
+                "assets/rep/particlest/common_black.dds"
+            ]
+        },
+        {
+            "hash": "Characters/Blitzcrank/Skins/Skin0/Particles/Blitzcrank_Base_W_Overdrive_Tires_01",
+            "types": "VfxSystemDefinitionData",
+            "mentioned_files": [
+                "assets/rep/particlest/blitzcrank_base_q_smoke_01.dds",
+                "assets/rep/particlest/blitzcrank_base_q_explosion_smoke_mult.dds"
+            ]
+        },
+        {
+            "hash": "Characters/Blitzcrank/Skins/Skin0/Particles/Blitzcrank_Base_R_TetherDistanceRing",
+            "types": "VfxSystemDefinitionData",
+            "mentioned_files": [
+                "assets/rep/particlest/common_global_indicator_ring.dds",
+                "assets/rep/particlest/semi_ring_highres.dds"
+            ]
+        },
+        {
+            "hash": "Characters/Blitzcrank/Skins/Skin0/Particles/Blitzcrank_Base_Emote_Dance_sfx_01",
+            "types": "VfxSystemDefinitionData",
+            "mentioned_files": [
+                "assets/rep/particlest/common_black.dds"
+            ]
+        },
+        {
+            "hash": "Characters/Blitzcrank/Skins/Skin0/Particles/Blitzcrank_Base_Emote_laugh_sfx_01",
+            "types": "VfxSystemDefinitionData",
+            "mentioned_files": [
+                "assets/rep/particlest/common_black.dds"
+            ]
+        },
+        {
+            "hash": "Characters/Blitzcrank/Skins/Skin0/Particles/Blitzcrank_Base_R_ZapTargetIndicator",
+            "types": "VfxSystemDefinitionData",
+            "mentioned_files": [
+                "assets/rep/particlest/khazix_base_q_singleenemy_indicator02_reticleoverlay.dds",
+                "assets/rep/particlest/khazix_base_q_singleenemy_indicator02_reticle.dds",
+                "assets/rep/scx/khazix_base_q_marker.sco",
+                "assets/rep/particlest/khazix_base_z_void.dds"
+            ]
+        },
+        {
+            "hash": "Characters/Blitzcrank/Skins/Skin0/Particles/Blitzcrank_Base_R_Passive_Self_Indicator",
+            "types": "VfxSystemDefinitionData",
+            "mentioned_files": [
+                "assets/rep/scx/blitzcrank_base_r_indicatorring_01.scb",
+                "assets/rep/particlest/blitzcrank_base_r_indicatorring_01.dds",
+                "assets/rep/particlest/blitzcrank_base_r_indicatormult_01.dds"
+            ]
+        },
+        {
+            "hash": "Characters/Blitzcrank/Skins/Skin0/Particles/Blitzcrank_Base_Death_sfx_01",
+            "types": "VfxSystemDefinitionData",
+            "mentioned_files": [
+                "assets/rep/particlest/common_black.dds"
+            ]
+        },
+        {
+            "hash": "Characters/Blitzcrank/Skins/Skin0/Particles/Blitzcrank_Base_R_idle_ChestGlow",
+            "types": "VfxSystemDefinitionData",
+            "mentioned_files": []
+        },
+        {
+            "hash": "Characters/Blitzcrank/Skins/Skin0/Particles/Blitzcrank_Base_E_pfist_02",
+            "types": "VfxSystemDefinitionData",
+            "mentioned_files": []
+        },
+        {
+            "hash": "Characters/Blitzcrank/Skins/Skin0/Particles/Blitzcrank_Base_E_pfist_01",
+            "types": "VfxSystemDefinitionData",
+            "mentioned_files": []
+        },
+        {
+            "hash": "Characters/Blitzcrank/Skins/Skin0/Particles/Blitzcrank_Base_P_Shield_01",
+            "types": "VfxSystemDefinitionData",
+            "mentioned_files": [
+                "assets/rep/scx/common_steamgolemshield.sco",
+                "assets/rep/particlest/common_color-hold.dds",
+                "assets/rep/particlest/common_steamgolemshield.dds",
+                "assets/rep/scx/common_eyeball.scb",
+                "assets/rep/particlest/common_color-forcebarrier.dds",
+                "assets/rep/particlest/common_shieldgrid.dds"
+            ]
+        },
+        {
+            "hash": "Characters/Blitzcrank/Skins/Skin0/Particles/Blitzcrank_Base_W_Overdrive_01",
+            "types": "VfxSystemDefinitionData",
+            "mentioned_files": [
+                "assets/rep/particlest/blitzcrank_base_q_smoke_01.dds",
+                "assets/rep/particlest/blitzcrank_base_q_explosion_smoke_mult.dds"
+            ]
+        },
+        {
+            "hash": "Characters/Blitzcrank/Skins/Skin0/Particles/Blitzcrank_Base_Q_mis",
+            "types": "VfxSystemDefinitionData",
+            "mentioned_files": [
+                "assets/rep/scx/blitzcrank_base_z_fist_cable.scb",
+                "assets/rep/particlest/blitzcrank_base_z_color-hold.dds",
+                "assets/rep/particlest/blitzcrank_base_z_cable.dds",
+                "assets/rep/scx/blitzcrank_base_z_golemfist.sco",
+                "assets/rep/particlest/blitzcrank_base_z_fist.dds",
+                "assets/rep/scx/blitzcrank_base_hookmodel.scb",
+                "assets/rep/particlest/blitzcrank_base_q_glow_01.dds",
+                "assets/rep/particlest/blitzcrank_base_q_smokeerode.dds",
+                "assets/rep/particlest/blitzcrank_base_q_smoke_01.dds",
+                "assets/rep/particlest/blitzcrank_base_q_explosion_smoke_mult.dds",
+                "assets/rep/particlest/blitzcrank_base_q_impact_03.dds",
+                "assets/rep/scx/blitzcrank_base_q_swirl_01.scb",
+                "assets/rep/particlest/blitzcrank_base_w_buf_pierce.dds",
+                "assets/rep/scx/blitzcrank_base_w_buf_pierce.scb",
+                "assets/rep/particlest/blitzcrank_base_w_buf_pierce_mult.dds",
+                "assets/rep/scx/sru_dragon_ba2_conemesh.scb",
+                "assets/rep/particlest/defaultcoloroverlifetime.dds",
+                "assets/rep/particlest/blitzcrank_base_q_conetexture.dds",
+                "assets/rep/particlest/blitzcrank_base_q_conetexture_mult.dds",
+                "assets/rep/particlest/blitzcrank_q_shape.dds",
+                "assets/rep/particlest/blitzcrank_base_r_bottom_02.dds",
+                "assets/rep/particlest/blitzcrank_base_mis_mult.dds",
+                "assets/rep/particlest/blitzcrank_base_q_gradient.dds",
+                "assets/rep/particlest/blitzcrank_base_q_groundsmoke02.dds",
+                "assets/rep/particlest/blitzcrank_base_e_glow_01.dds",
+                "assets/rep/particlest/blitzcrank_base_e_bitsdissolve_01.dds"
+            ]
+        },
+        {
+            "hash": "Characters/Blitzcrank/Skins/Skin0/Particles/Blitzcrank_Base_Q_mis_return",
+            "types": "VfxSystemDefinitionData",
+            "mentioned_files": [
+                "assets/rep/scx/blitzcrank_base_z_fist_cable.scb",
+                "assets/rep/particlest/blitzcrank_base_z_color-hold.dds",
+                "assets/rep/particlest/blitzcrank_base_z_cable.dds",
+                "assets/rep/scx/blitzcrank_base_z_golemfist.sco",
+                "assets/rep/particlest/blitzcrank_base_z_fist.dds",
+                "assets/rep/scx/blitzcrank_skin05_z_fist.sco",
+                "assets/rep/particlest/blitzcrank_skin05_z_fist.dds",
+                "assets/rep/particlest/blitzcrank_base_q_impact_04.dds",
+                "assets/rep/particlest/blitzcrank_base_q_flecks_01.dds",
+                "assets/rep/particlest/hit_spark_blue.dds",
+                "assets/rep/particlest/bolts_mis_return.dds",
+                "assets/rep/particlest/hiteffect_gradient_64.dds",
+                "assets/rep/particlest/hiteffect.dds",
+                "assets/rep/particlest/blitzcrank_base_q_gradient.dds",
+                "assets/rep/particlest/blitzcrank_base_q_groundsmoke02.dds",
+                "assets/rep/particlest/blitzcrank_base_e_bitsdissolve_01.dds",
+                "assets/rep/particlest/blitzcrank_base_q_smokeerode.dds",
+                "assets/rep/particlest/blitzcrank_base_q_smoke_01.dds",
+                "assets/rep/particlest/blitzcrank_base_q_explosion_smoke_mult.dds"
+            ]
+        },
+        {
+            "hash": "Characters/Blitzcrank/Skins/Skin0/Particles/Blitzcrank_Base_Q_mis_01",
+            "types": "VfxSystemDefinitionData",
+            "mentioned_files": [
+                "assets/rep/scx/common_fist_cable.sco",
+                "assets/rep/particlest/common_color-hold.dds",
+                "assets/rep/particlest/common_cable.dds",
+                "assets/rep/scx/blitzcrank_base_z_golemfist.sco",
+                "assets/rep/particlest/common_steamgolem_base_fist.dds",
+                "assets/rep/particlest/common_blitz_i_color_b.dds",
+                "assets/rep/particlest/common_blitz_i_hand_rocket.dds"
+            ]
+        },
+        {
+            "hash": "Characters/Blitzcrank/Skins/Skin0/Particles/Bard_Base_P_Meep_Upgrade_Eyeglow",
+            "types": "VfxSystemDefinitionData",
+            "mentioned_files": [
+                "assets/rep/particlest/bard_base_p_speed_flash.dds"
+            ]
+        },
+        {
+            "hash": "Characters/Blitzcrank/Skins/Skin0/Particles/Blitzcrank_Base_R_idle",
+            "types": "VfxSystemDefinitionData",
+            "mentioned_files": [
+                "assets/rep/scx/blitzcrank_base_z_magicball.scb",
+                "assets/rep/particlest/blitzcrank_base_z_color-lightning.dds",
+                "assets/rep/particlest/blitzcrank_base_z_zapball4.dds",
+                "assets/rep/particlest/blitzcrank_base_z_zapglow.dds",
+                "assets/rep/particlest/blitzcrank_base_z_glows.dds",
+                "assets/rep/scx/blitzcrank_base_r_plasmamesh_01.scb",
+                "assets/rep/particlest/blitzcrank_base_r_elec_01.dds",
+                "assets/rep/scx/common_shieldball.sco",
+                "assets/rep/particlest/blitzcrank_base_r_flatwhite.dds",
+                "assets/rep/particlest/blitzcrank_base_r_impact_06.dds"
+            ]
+        },
+        {
+            "hash": "Characters/Blitzcrank/Skins/Skin0/Particles/Blitzcrank_Base_E_buf",
+            "types": "VfxSystemDefinitionData",
+            "mentioned_files": [
+                "assets/rep/particlest/blitzcrank_base_z_color-lightning.dds",
+                "assets/rep/particlest/blitzcrank_base_z_lightning05.dds",
+                "assets/rep/particlest/blitzcrank_base_e_sparkles_01.dds",
+                "assets/rep/particlest/blitzcrank_base_e_glow_01.dds",
+                "assets/rep/particlest/blitzcrank_base_e_bitsdissolve_01.dds",
+                "assets/rep/particlest/blitzcrank_base_q_impact_04.dds"
+            ]
+        },
+        {
+            "hash": "Characters/Blitzcrank/Skins/Skin0/Particles/Blitzcrank_Base_E_buf_01",
+            "types": "VfxSystemDefinitionData",
+            "mentioned_files": [
+                "assets/rep/particlest/common_color-lightning.dds",
+                "assets/rep/particlest/common_lightning05.dds",
+                "assets/rep/particlest/common_color-dazzle.dds",
+                "assets/rep/particlest/common_glows.dds"
+            ]
+        },
+        {
+            "hash": "Characters/Blitzcrank/Skins/Skin0/Particles/Blitzcrank_Base_E_tar_blood",
+            "types": "VfxSystemDefinitionData",
+            "mentioned_files": [
+                "assets/rep/particlest/blitzcrank_base_z_color-whiteweb32.dds",
+                "assets/rep/particlest/blitzcrank_base_z_0fluid.dds"
+            ]
+        },
+        {
+            "hash": "Characters/Blitzcrank/Skins/Skin0/Particles/Blitzcrank_Base_R_timer",
+            "types": "VfxSystemDefinitionData",
+            "mentioned_files": [
+                "assets/rep/particlest/common_aura_self.dds",
+                "assets/rep/particlest/blitzcrank_skin11_r_cas_shield_glow.dds",
+                "assets/rep/scx/blitzcrank_skin11_r_timer.scb",
+                "assets/rep/particlest/defaultcoloroverlifetime.dds",
+                "assets/rep/particlest/blitzcrank_skin11_r_timer.dds",
+                "assets/rep/particlest/blitzcrank_skin11_r_timer_mult.dds"
+            ]
+        },
+        {
+            "hash": "Characters/Blitzcrank/Skins/Skin0/Particles/Blitzcrank_Base_P_cas_shield",
+            "types": "VfxSystemDefinitionData",
+            "mentioned_files": [
+                "assets/rep/scx/blitzcrank_base_z_steamgolemshield.sco",
+                "assets/rep/particlest/blitzcrank_base_z_color-hold.dds",
+                "assets/rep/particlest/blitzcrank_base_z_steamgolemshield.dds",
+                "assets/rep/scx/blitzcrank_base_z_eyeball.scb",
+                "assets/rep/particlest/blitzcrank_base_z_shieldgrid.dds",
+                "assets/rep/particlest/common_color-hold.dds",
+                "assets/rep/particlest/blitzcrank_base_p_cas_shield_glow.dds",
+                "assets/rep/particlest/blitzcrank_ashe_base_ground_cracknoise_mult.dds",
+                "assets/rep/particlest/blitzcrank_base_q_impact_04.dds",
+                "assets/rep/particlest/blitzcrank_base_p_cas_shield_outer.dds"
+            ]
+        },
+        {
+            "hash": "Characters/Blitzcrank/Skins/Skin0/Particles/Blitzcrank_Base_R_tar",
+            "types": "VfxSystemDefinitionData",
+            "mentioned_files": [
+                "assets/rep/particlest/blitzcrank_base_z_color-lightning.dds",
+                "assets/rep/particlest/blitzcrank_base_z_zapspark.dds",
+                "assets/rep/particlest/blitzcrank_base_z_color-rampdown.dds",
+                "assets/rep/particlest/blitzcrank_base_r_r_arcs.dds",
+                "assets/rep/particlest/lux_skin07_r_tar_storm_ring.dds",
+                "assets/rep/particlest/blitzcrank_base_r_distortfade.dds",
+                "assets/rep/particlest/common_distort-soft-shockwave.dds",
+                "assets/rep/particlest/lux_skin07_r_distort.dds",
+                "assets/rep/particlest/color-rampdown.dds",
+                "assets/rep/particlest/caitlyn_skin11_recall_glow.dds",
+                "assets/rep/particlest/blitzcrank_base_r_small_mote.dds"
+            ]
+        },
+        {
+            "hash": "Characters/Blitzcrank/Skins/Skin0/Particles/Blitzcrank_Base_BA_tar",
+            "types": "VfxSystemDefinitionData",
+            "mentioned_files": [
+                "assets/rep/particlest/blitzcrank_base_z_color-hit-physical.dds",
+                "assets/rep/particlest/blitzcrank_base_z_hiteffect.dds",
+                "assets/rep/particlest/hit_spark_blue.dds",
+                "assets/rep/particlest/bolts_tar.dds",
+                "assets/rep/particlest/hiteffect_gradient_64.dds",
+                "assets/rep/particlest/hiteffect.dds"
+            ]
+        },
+        {
+            "hash": "Characters/Blitzcrank/Skins/Skin0/Particles/Blitzcrank_Base_R_cas",
+            "types": "VfxSystemDefinitionData",
+            "mentioned_files": [
+                "assets/rep/scx/blitzcrank_base_z_magicball.scb",
+                "assets/rep/particlest/blitzcrank_base_z_color-lightning3.dds",
+                "assets/rep/particlest/blitzcrank_base_z_zapball5.dds",
+                "assets/rep/particlest/blitzcrank_base_z_color-rampdown.dds",
+                "assets/rep/particlest/blitzcrank_base_z_zapspark.dds",
+                "assets/rep/particlest/blitzcrank_base_r_flatwhite.dds",
+                "assets/rep/particlest/blitzcrank_base_r_impact_02.dds",
+                "assets/rep/particlest/blitzcrank_base_r_bottom_02.dds",
+                "assets/rep/particlest/blitzcrank_base_r_smoke_02.dds",
+                "assets/rep/particlest/blitzcrank_base_q_explosion_smoke_mult.dds",
+                "assets/rep/scx/blitzcrank_base_r_indicatorring_01.scb",
+                "assets/rep/particlest/blitzcrank_base_r_indicatorring_01.dds",
+                "assets/rep/particlest/blitzcrank_base_r_indicatormult_01.dds",
+                "assets/rep/scx/blitzcrank_base_r_bottom_01.scb",
+                "assets/rep/particlest/blitzcrank_base_r_bottom_03.dds",
+                "assets/rep/particlest/blitzcrank_base_r_impact_05.dds",
+                "assets/rep/particlest/defaultfalloff.dds",
+                "assets/rep/particlest/defaultcoloroverlifetime.dds",
+                "assets/rep/particlest/blitzcrank_base_bokeh_dots_4x4.dds",
+                "assets/rep/particlest/lux_skin07_r_distort_rgba_2.dds",
+                "assets/rep/particlest/blitzcrank_base_r_circle_normal.dds",
+                "assets/rep/particlest/blitzcrank_base_r_white.dds",
+                "assets/rep/particlest/blitzcrank_r_shockwave.dds",
+                "assets/rep/particlest/reksai_base_r_ground_hole.dds",
+                "assets/rep/particlest/common_sru_bluebuff_softrays_1x4.dds",
+                "assets/rep/particlest/blitzcrank_base_r_r_arcs.dds",
+                "assets/rep/scx/blitzcrank_base_r_cas_ground.scb",
+                "assets/rep/particlest/blitzcrank_base_r_electricity.dds",
+                "assets/rep/particlest/blitzcrank_base_r_cas_ground_mult.dds",
+                "assets/rep/scx/blitzcrank_base_r_cloudmesh.scb",
+                "assets/rep/particlest/alphaslice_mesh.dds",
+                "assets/rep/particlest/blitzcrank_base_r_fattrail.dds",
+                "assets/rep/particlest/blitzcrank_base_r_dustcloud_mult.dds",
+                "assets/rep/scx/blitzcrank_base_r_ring_01.scb",
+                "assets/rep/particlest/blitzcrank_base_r_elec_01.dds",
+                "assets/rep/scx/blitzcrank_lighting_cyl.sco",
+                "assets/rep/particlest/blitzcrank_base_r_lightningerosion03.dds",
+                "assets/rep/particlest/blitzcrank_base_r_lightning03.dds",
+                "assets/rep/scx/blitzcrank_base_r_decal_edge.scb",
+                "assets/rep/particlest/blitzcrank_base_r_proc_lightning_glow.dds",
+                "assets/rep/particlest/blitzcrank_base_r_bg.dds",
+                "assets/rep/particlest/blitzcrank_base_r_glow_blue.dds",
+                "assets/rep/particlest/blitzcrank_base_r_bitsdissolve_01.dds"
+            ]
+        },
+        {
+            "hash": "Characters/Blitzcrank/Skins/Skin0/Particles/Blitzcrank_Base_R_tar_passive",
+            "types": "VfxSystemDefinitionData",
+            "mentioned_files": [
+                "assets/rep/particlest/blitzcrank_base_z_color-lightning.dds",
+                "assets/rep/particlest/blitzcrank_base_z_lightningbolt.dds",
+                "assets/rep/particlest/blitzcrank_base_z_color-rampdown.dds",
+                "assets/rep/particlest/blitzcrank_base_z_zapglow.dds",
+                "assets/rep/particlest/common_flare-omnimax.dds",
+                "assets/rep/particlest/blitzcrank_base_z_glows.dds",
+                "assets/rep/particlest/blitzcrank_base_r_lightning_02.dds",
+                "assets/rep/scx/blitzcrank_base_r_ring01.scb",
+                "assets/rep/particlest/blitzcrank_base_r_elec_01.dds",
+                "assets/rep/particlest/blitzcrank_base_r_chainelec_01.dds",
+                "assets/rep/particlest/blitzcrank_ashe_base_ground_cracknoise_mult.dds",
+                "assets/rep/particlest/blitzcrank_base_r_color-hold.dds"
+            ]
+        },
+        {
+            "hash": "Characters/Blitzcrank/Skins/Skin0/Particles/Blitzcrank_Base_E_tar_1",
+            "types": "VfxSystemDefinitionData",
+            "mentioned_files": [
+                "assets/rep/particlest/blitzcrank_base_z_hiteffect.dds",
+                "assets/rep/particlest/common_ball32_02.dds",
+                "assets/rep/particlest/shine.dds",
+                "assets/rep/particlest/common_ball32_01.dds",
+                "assets/rep/particlest/energyarcs.dds",
+                "assets/rep/particlest/piercering.dds",
+                "assets/rep/particlest/blitzcrank_base_r_lightning03.dds",
+                "assets/rep/scx/helix.sco",
+                "assets/rep/particlest/helix.dds",
+                "assets/rep/particlest/blitzcrank_base_r_r_arcs.dds",
+                "assets/rep/particlest/sru_junglebuff_baron_meleemin_avataroverlay.dds",
+                "assets/rep/particlest/blitzcrank_base_q_explosion_smoke_mult.dds"
+            ]
+        },
+        {
+            "hash": "Characters/Blitzcrank/Skins/Skin0/Particles/Blitzcrank_Base_E_tar_2",
+            "types": "VfxSystemDefinitionData",
+            "mentioned_files": [
+                "assets/rep/particlest/blitzcrank_base_z_color-ryzebasicattack.dds",
+                "assets/rep/particlest/blitzcrank_base_z_ryzebasicattack.dds"
+            ]
+        },
+        {
+            "hash": "Characters/Blitzcrank/Skins/Skin0/Particles/Blitzcrank_Base_W_buf",
+            "types": "VfxSystemDefinitionData",
+            "mentioned_files": [
+                "assets/rep/particlest/blitzcrank_base_z_color-overdrivelines.dds",
+                "assets/rep/particlest/blitzcrank_base_z_overdrivelines.dds",
+                "assets/rep/particlest/blitzcrank_base_z_overdrivelines_iblitz.dds",
+                "assets/rep/particlest/blitzcrank_base_smokeerode.dds",
+                "assets/rep/particlest/blitzcrank_base_w_mis_cap.dds",
+                "assets/rep/scx/blitzcrank_base_w_buf_ring.scb",
+                "assets/rep/particlest/blitzcrank_base_w_buf_smokering.dds",
+                "assets/rep/scx/blitzcrank_base_w_buf_pierce.scb",
+                "assets/rep/particlest/blitzcrank_base_w_buf_pierce.dds",
+                "assets/rep/particlest/blitzcrank_base_w_buf_pierce_mult.dds",
+                "assets/rep/particlest/blitzcrank_base_w_mis_glow.dds",
+                "assets/rep/particlest/blitzcrank_base_z_color-movequick.dds",
+                "assets/rep/particlest/blitzcrank_base_z_movequick01.dds",
+                "assets/rep/particlest/blitzcrank_base_q_explosion_smoke_mult.dds",
+                "assets/rep/particlest/blitzcrank_base_r_r_arcs.dds",
+                "assets/rep/particlest/blitzcrank_base_q_smoke_01.dds",
+                "assets/rep/particlest/blitzcrank_base_w_lightning02.dds"
+            ]
+        },
+        {
+            "hash": "Characters/Blitzcrank/Skins/Skin0/Particles/Blitzcrank_Base_Q_cas",
+            "types": "VfxSystemDefinitionData",
+            "mentioned_files": [
+                "assets/rep/particlest/blitzcrank_base_z_blank.dds",
+                "assets/rep/particlest/blitzcrank_base_z_color-steam.dds",
+                "assets/rep/particlest/blitzcrank_base_z_lofog01.dds",
+                "assets/rep/particlest/alphaslice_mesh.dds",
+                "assets/rep/particlest/sion_skin05_sl_dust_01.dds"
+            ]
+        },
+        {
+            "hash": "Characters/Blitzcrank/Skins/Skin0/Particles/Blitzcrank_Base_I_steam",
+            "types": "VfxSystemDefinitionData",
+            "mentioned_files": []
+        }
+    ],
+    "junk_files": [
+        "ASSETS/rep/anm/blitzcrank_attack1.anm",
+        "ASSETS/rep/anm/blitzcrank_attack2.anm",
+        "ASSETS/rep/anm/blitzcrank_attack3.anm",
+        "ASSETS/rep/anm/blitzcrank_channel.anm",
+        "ASSETS/rep/anm/blitzcrank_channel_windup.anm",
+        "ASSETS/rep/anm/blitzcrank_dance.anm",
+        "ASSETS/rep/anm/blitzcrank_death.anm",
+        "ASSETS/rep/anm/blitzcrank_idle1.anm",
+        "ASSETS/rep/anm/blitzcrank_idle2.anm",
+        "ASSETS/rep/anm/blitzcrank_idle3.anm",
+        "ASSETS/rep/anm/blitzcrank_laugh.anm",
+        "ASSETS/rep/anm/blitzcrank_run.anm",
+        "ASSETS/rep/anm/blitzcrank_spell1.anm",
+        "ASSETS/rep/anm/blitzcrank_spell2.anm",
+        "ASSETS/rep/anm/blitzcrank_taunt.anm",
+        "ASSETS/rep/hud/BlitzcrankLoadScreen.dds",
+        "ASSETS/rep/hud/Steamgolem_Circle.dds",
+        "ASSETS/rep/hud/Steamgolem_Square.dds",
+        "ASSETS/rep/main/Mat_Body.dds",
+        "ASSETS/rep/main/Mat_Coat.dds",
+        "ASSETS/rep/main/Mat_Eye.dds",
+        "ASSETS/rep/main/Mat_Eyebrow.dds",
+        "ASSETS/rep/main/Mat_Eyelash.dds",
+        "ASSETS/rep/main/Mat_Hair.dds",
+        "ASSETS/rep/main/Mat_Head.dds",
+        "ASSETS/rep/main/Mat_Hood.dds",
+        "ASSETS/rep/main/Mat_LeftHand.dds",
+        "ASSETS/rep/main/Mat_Leg.dds",
+        "ASSETS/rep/main/Mat_MechNub.dds",
+        "ASSETS/rep/main/Mat_Overture.dds",
+        "ASSETS/rep/main/Mat_RedQueen.dds",
+        "ASSETS/rep/main/blitzcrank_base_CubeMap.dds",
+        "ASSETS/rep/particlest/Bard_Base_P_speed_flash.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Ashe_Base_ground_CrackNoise_mult.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_Bokeh_Dots_4x4.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_E_BitsDissolve_01.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_E_Glow_01.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_E_Sparkles_01.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_P_cas_shield_glow.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_P_cas_shield_outer.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_Q_ConeTexture.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_Q_ConeTexture_Mult.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_Q_Flecks_01.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_Q_Glow_01.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_Q_Gradient.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_Q_GroundSmoke02.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_Q_Impact_03.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_Q_Impact_04.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_Q_SmokeErode.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_Q_Smoke_01.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_Q_explosion_smoke_mult.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_R_BG.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_R_BitsDissolve_01.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_R_Bottom_02.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_R_Bottom_03.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_R_Cas_Ground_Mult.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_R_ChainElec_01.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_R_Circle_normal.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_R_DistortFade.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_R_Elec_01.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_R_Electricity.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_R_FatTrail.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_R_FlatWhite.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_R_Glow_Blue.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_R_Impact_02.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_R_Impact_05.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_R_Impact_06.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_R_IndicatorMult_01.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_R_IndicatorRing_01.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_R_Lightning03.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_R_LightningErosion03.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_R_Lightning_02.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_R_Proc_Lightning_Glow.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_R_R_Arcs.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_R_Small_Mote.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_R_Smoke_02.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_R_White.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_R_color-hold.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_R_dustcloud_Mult.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_SmokeErode.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_W_Lightning02.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_W_Mis_Cap.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_W_Mis_Glow.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_W_buf_Pierce.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_W_buf_Pierce_Mult.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_W_buf_SmokeRing.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_Z_0fluid.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_Z_Movequick01.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_Z_RyzeBasicAttack.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_Z_blank.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_Z_cable.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_Z_color-hit-physical.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_Z_color-hold.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_Z_color-lightning.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_Z_color-lightning3.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_Z_color-movequick.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_Z_color-overdrivelines.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_Z_color-rampdown.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_Z_color-ryzebasicattack.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_Z_color-steam.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_Z_color-whiteweb32.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_Z_fist.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_Z_glows.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_Z_hiteffect.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_Z_lightning05.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_Z_lightningbolt.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_Z_lofog01.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_Z_overdrivelines.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_Z_overdrivelines_iblitz.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_Z_shieldgrid.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_Z_steamgolemshield.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_Z_zapball4.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_Z_zapball5.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_Z_zapglow.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_Z_zapspark.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Base_mis_mult.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Q_Shape.dds",
+        "ASSETS/rep/particlest/Blitzcrank_R_Shockwave.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Skin05_Z_fist.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Skin11_R_cas_shield_glow.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Skin11_R_timer.dds",
+        "ASSETS/rep/particlest/Blitzcrank_Skin11_R_timer_mult.dds",
+        "ASSETS/rep/particlest/Caitlyn_Skin11_Recall_Glow.dds",
+        "ASSETS/rep/particlest/DefaultColorOverlifetime.dds",
+        "ASSETS/rep/particlest/DefaultFalloff.dds",
+        "ASSETS/rep/particlest/EnergyArcs.dds",
+        "ASSETS/rep/particlest/Global_Indicator_ring.dds",
+        "ASSETS/rep/particlest/Global_Indicator_shafts.dds",
+        "ASSETS/rep/particlest/Helix.dds",
+        "ASSETS/rep/particlest/HitEffect_Gradient_64.dds",
+        "ASSETS/rep/particlest/Hit_Spark_blue.dds",
+        "ASSETS/rep/particlest/Khazix_Base_Q_SingleEnemy_Indicator02_Reticle.dds",
+        "ASSETS/rep/particlest/Khazix_Base_Q_SingleEnemy_Indicator02_ReticleOverlay.dds",
+        "ASSETS/rep/particlest/Khazix_Base_Z_Void.dds",
+        "ASSETS/rep/particlest/Lux_Skin07_R_Distort_RGBA_2.dds",
+        "ASSETS/rep/particlest/Lux_Skin07_R_distort.dds",
+        "ASSETS/rep/particlest/Lux_Skin07_R_tar_Storm_Ring.dds",
+        "ASSETS/rep/particlest/PierceRing.dds",
+        "ASSETS/rep/particlest/RekSai_Base_R_ground_hole.dds",
+        "ASSETS/rep/particlest/SRU_JungleBuff_Baron_MeleeMin_AvatarOverlay.dds",
+        "ASSETS/rep/particlest/Shine.dds",
+        "ASSETS/rep/particlest/Sion_Skin05_Sl_Dust_01.dds",
+        "ASSETS/rep/particlest/alphaslice_mesh.dds",
+        "ASSETS/rep/particlest/bolts_mis_return.dds",
+        "ASSETS/rep/particlest/bolts_tar.dds",
+        "ASSETS/rep/particlest/color-bellcurve.dds",
+        "ASSETS/rep/particlest/color-rampdown.dds",
+        "ASSETS/rep/particlest/common_Aura_Self.dds",
+        "ASSETS/rep/particlest/common_Black.dds",
+        "ASSETS/rep/particlest/common_DarkSov_Justicar_ForceTrail2.dds",
+        "ASSETS/rep/particlest/common_Flare-Omnimax.dds",
+        "ASSETS/rep/particlest/common_Global_Indicator_ring.dds",
+        "ASSETS/rep/particlest/common_Glows.dds",
+        "ASSETS/rep/particlest/common_SRU_BlueBuff_SoftRays_1x4.dds",
+        "ASSETS/rep/particlest/common_SteamGolemShield.dds",
+        "ASSETS/rep/particlest/common_ball32_01.dds",
+        "ASSETS/rep/particlest/common_ball32_02.dds",
+        "ASSETS/rep/particlest/common_blitz_i_color_b.dds",
+        "ASSETS/rep/particlest/common_blitz_i_hand_rocket.dds",
+        "ASSETS/rep/particlest/common_cable.dds",
+        "ASSETS/rep/particlest/common_color-dazzle.dds",
+        "ASSETS/rep/particlest/common_color-forcebarrier.dds",
+        "ASSETS/rep/particlest/common_color-hold.dds",
+        "ASSETS/rep/particlest/common_color-lightning.dds",
+        "ASSETS/rep/particlest/common_darksov_force2.dds",
+        "ASSETS/rep/particlest/common_distort-soft-shockwave.dds",
+        "ASSETS/rep/particlest/common_lightning05.dds",
+        "ASSETS/rep/particlest/common_shieldgrid.dds",
+        "ASSETS/rep/particlest/common_steamgolem_base_fist.dds",
+        "ASSETS/rep/particlest/hiteffect.dds",
+        "ASSETS/rep/particlest/ring_highres.dds",
+        "ASSETS/rep/particlest/semi_ring_highres.dds",
+        "ASSETS/rep/scx/Blitzcrank_Base_HookModel.scb",
+        "ASSETS/rep/scx/Blitzcrank_Base_Q_Swirl_01.scb",
+        "ASSETS/rep/scx/Blitzcrank_Base_R_Bottom_01.scb",
+        "ASSETS/rep/scx/Blitzcrank_Base_R_CloudMesh.scb",
+        "ASSETS/rep/scx/Blitzcrank_Base_R_Decal_Edge.scb",
+        "ASSETS/rep/scx/Blitzcrank_Base_R_IndicatorRing_01.scb",
+        "ASSETS/rep/scx/Blitzcrank_Base_R_PlasmaMesh_01.scb",
+        "ASSETS/rep/scx/Blitzcrank_Base_R_Ring01.scb",
+        "ASSETS/rep/scx/Blitzcrank_Base_R_Ring_01.scb",
+        "ASSETS/rep/scx/Blitzcrank_Base_R_cas_ground.scb",
+        "ASSETS/rep/scx/Blitzcrank_Base_W_buf_pierce.scb",
+        "ASSETS/rep/scx/Blitzcrank_Base_W_buf_ring.scb",
+        "ASSETS/rep/scx/Blitzcrank_Base_Z_Fist_Cable.scb",
+        "ASSETS/rep/scx/Blitzcrank_Base_Z_eyeball.scb",
+        "ASSETS/rep/scx/Blitzcrank_Base_Z_golemfist.sco",
+        "ASSETS/rep/scx/Blitzcrank_Base_Z_magicBall.scb",
+        "ASSETS/rep/scx/Blitzcrank_Base_Z_steamgolemshield.sco",
+        "ASSETS/rep/scx/Blitzcrank_Lighting_Cyl.sco",
+        "ASSETS/rep/scx/Blitzcrank_Skin05_Z_fist.sco",
+        "ASSETS/rep/scx/Blitzcrank_Skin11_R_timer.scb",
+        "ASSETS/rep/scx/Helix.sco",
+        "ASSETS/rep/scx/Khazix_Base_Q_Marker.sco",
+        "ASSETS/rep/scx/common_Fist_Cable.sco",
+        "ASSETS/rep/scx/common_eyeball.scb",
+        "ASSETS/rep/scx/common_shieldball.sco",
+        "ASSETS/rep/scx/common_steamgolemshield.sco",
+        "ASSETS/rep/scx/sru_dragon_ba2_conemesh.scb",
+        "ASSETS/rep/skx/blitzcrank.skl",
+        "ASSETS/rep/skx/blitzcrank.skn",
+        "ASSETS/sounds/wwise2016/sfx/characters/blitzcrank/skins/base/blitzcrank_base_sfx_audio.bnk",
+        "ASSETS/sounds/wwise2016/sfx/characters/blitzcrank/skins/base/blitzcrank_base_sfx_events.bnk",
+        "ASSETS/sounds/wwise2016/vo/en_us/characters/blitzcrank/skins/base/blitzcrank_base_vo_audio.wpk",
+        "ASSETS/sounds/wwise2016/vo/en_us/characters/blitzcrank/skins/base/blitzcrank_base_vo_events.bnk"
+    ]
+}
